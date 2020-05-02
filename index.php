@@ -31,7 +31,7 @@
     ?>
 
     <div class="calculator__header">
-        <p class="calculator__header--modifier">Kalculator</p>
+        <p class="calculator__header--modifier">Kalkulator</p>
     </div>
     <div class="calculator__container">
         <form action="index.php" method="post">
